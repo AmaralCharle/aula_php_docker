@@ -1,0 +1,16 @@
+/.idea
+/.vscode
+vendor/
+node_modules/
+*.log
+.env
+.DS_Store
+db_data/
+/.env.local
+/.env.*.local
+/.composer
+*.sqlite
+*.sql
+*.gz
+composer.lock
+/.cache
