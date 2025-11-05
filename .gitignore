@@ -6,6 +6,8 @@ node_modules/
 .env
 .DS_Store
 db_data/
+venv/
+.venv/
 /.env.local
 /.env.*.local
 /.composer
